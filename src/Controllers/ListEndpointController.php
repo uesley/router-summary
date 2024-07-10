@@ -1,6 +1,6 @@
 <?php
 
-namespace RouterSummary\Controllers;
+namespace Uesley\RouterSummary\Controllers;
 
 use Uesley\RouterSummary\RouteMapper;
 use Illuminate\Http\JsonResponse;
