@@ -1,0 +1,28 @@
+{
+    "name": "uesley/router-summary",
+    "description": "sumarize endpoint of an api",
+    "type": "library",
+    "require": {
+        "orchestra/testbench": "^9.1"
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.34"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uesley\\RouterSummary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uesleymelo",
+            "email": "uesley.eumesmo@gmail.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
